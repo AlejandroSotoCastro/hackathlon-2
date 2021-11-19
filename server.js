@@ -1,4 +1,4 @@
-const Observer = require('./src/observer');
+const Obserser = require('./src/observer');
 
 var obserser = new Obserser();
 
